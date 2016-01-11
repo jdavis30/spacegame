@@ -1,0 +1,21 @@
+--######################################################################--
+--############################ HUD Module ##############################--
+--######################################################################--
+--Author: Jasper Davis
+--Date created: 12/29/2015
+--Last Edited: 12/29/2015
+--By: Jasper Davis
+--Basic Function: Draws the Head-up display the player will use to view stats
+--				  and buttons with later on. The HUD module will also likely be
+--                use for menu screens and cutscenes later on.
+--
+--for more info, contact who last edited:jasperdavis95@gmail.com
+--
+--Code standard form:
+--	>Comments hold notes for line or lines immediately below it.
+--	>Code is split into phases, then sections of phases, for ease
+--	 of navigation, with Letters denoting phases, and numerals
+--	 denoting sections of phases.
+--	>Phases are denoted via --/-- borders and  sections, via --=--
+--	 borders.
+--
